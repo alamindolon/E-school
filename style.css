@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+.col-md-6 h1{
+    color: black;
+    font-weight: 700;
+
+}
+h1 span{
+    color: #21B573;
+}
+.btn-s{
+    background-color: #13a161;
+    border-radius: 33px;
+    color: white;
+    border: none;
+    width: 120px;
+    height: 40px;
+}
+
+.catagories img{
+    width: 100px;
+    margin-bottom: 25px;
+    
+}
+/* .cat{ */
+    background-color: #E5E5E5;
+/* } */
+
+.cat{
+    
+}
+
+.cat1,.cat2,.cat3,.cat4{
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px 60px;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+height: 270px;
+
+}
+.card-footer img{
+    width: 20px;
+    
+
+}
+/* .text-muted{ */
+    padding-right: 100px;
+/* } */
+
+.content p{
+    height: 90px;
+width: 580px;
+
+}
